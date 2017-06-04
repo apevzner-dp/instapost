@@ -1,0 +1,5 @@
+[2017-06-05 00:09:36] {"id":"test","timestamp":1496610576152,"status":{"code":0,"message":""}}
+[2017-06-05 00:12:09] {"id":"test","timestamp":1496610729231,"status":{"code":13,"message":"Instagram.com is inaccessible or its response is incorrect. Error: connect ECONNREFUSED 127.0.0.1:123"}}
+[2017-06-05 00:12:59] {"id":"test","timestamp":1496610779264,"status":{"code":13,"message":"Instagram.com is inaccessible or its response is incorrect. Error: connect ECONNREFUSED 127.0.0.1:123"}}
+[2017-06-05 00:13:29] {"id":"test","timestamp":1496610809916,"status":{"code":15,"message":"Login to Instagram failed."}}
+[2017-06-05 00:14:16] {"id":"test","timestamp":1496610856140,"status":{"code":0,"message":""}}
