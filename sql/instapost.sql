@@ -19,9 +19,9 @@
 -- Current Database: `instapost`
 --
 
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `instapost` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
+-- CREATE DATABASE /*!32312 IF NOT EXISTS*/ `instapost` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
 
-USE `instapost`;
+USE `instaliza`;
 
 --
 -- Table structure for table `post_timestamps_ip`

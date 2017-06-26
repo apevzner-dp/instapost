@@ -1,6 +1,6 @@
-var InstaLog = require('../lib/instalog.js');
-var InstaPost = require('../lib/instapost.js');
-var InstaTask = require('../lib/instatask.js');
+var InstaLog = require('instapost/instalog.js');
+var InstaPost = require('instapost/instapost.js');
+var InstaTask = require('instapost/instatask.js');
 
 process.on('uncaughtException', function(e) {
     console.log('Uncaught exception: ' + e);

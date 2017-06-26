@@ -1,7 +1,7 @@
 var fs = require('fs');
 
-var InstaError = require('../lib/instaerror.js');
-var InstaTask = require('../lib/instatask.js');
+var InstaError = require('instapost/instaerror.js');
+var InstaTask = require('instapost/instatask.js');
 
 function printError(taskObject, e) {
     process.stdout.write(JSON.stringify({'photo_id': taskObject.photos[0].id, 'timestamp': (new Date()).getTime(), 'status': e}));
